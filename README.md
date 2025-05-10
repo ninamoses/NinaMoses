@@ -1,30 +1,21 @@
 ## Hi there 👋
 - 🔭 I’m currently working on Google's Cybersecurity Professional Certification
-- 🌱 I’m currently learning about Networks and Network Security
+- 🌱 I’m currently learning about Assets and Risk Security
 - 📫 How to reach me: ninamoses26@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Boba Tea enthusiast!
-<!--
-**ninamoses/NinaMoses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🔭 I’m currently working on Google's Cybersecurity Professional Certification
-- 🌱 I’m currently learning about Networks and Network Security
-- 📫 How to reach me: ninamoses26@gmail.com
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: Boba Tea enthusiast!
 
 <h2> Certifications</h2>
 
-- Google Cybersecurity Certificate (put link)
+- [Google Cybersecurity Certificate] (Currently pursuing)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b> Controls and compliance Checklist </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice) https://github.com/ninamoses/Nina-s-Cybersecurity-Projects.git
 - <b> Cybersecurity Incident Report: Network Traffic Analysis</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Security Risk Assessment Report</b>
@@ -43,14 +34,12 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+
+[twitter]: https://twitter.com/
+
+[linkedin]: https://linkedin.com/in/
 
 -->
